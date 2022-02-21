@@ -1,1 +1,1 @@
-![Alt text](oldpass.jpg?raw=true "Oldpass.com")
+![Alt text](oldpass.jpg?raw=true)
